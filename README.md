@@ -2,7 +2,7 @@
 My name is Ido.
 I really love coding and currently working on some cool projects. 
 
-Portfolio: https://sdido.github.io/portfolio 
+Portfolio: https://sdido.github.io/Portfolio 
 
 Kaggle: https://www.kaggle.com/idonatan/code?scroll=true
 
