@@ -4,7 +4,7 @@ I really love coding and currently working on some cool projects.
 
 Portfolio: https://sdido.github.io/Portfolio 
 
-Kaggle: https://www.kaggle.com/idonatan/
+HackerRank: https://www.hackerrank.com/bookidodo
 
 Stackoverflow: https://stackoverflow.com/users/10821960/sdido
 
