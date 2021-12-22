@@ -1,7 +1,6 @@
 ### Hello 👋
 My name is Ido.
-
-Welcome to my little laboratory please have a look around.
+Welcome to my little laboratory! How can I help you today?
 
 Portfolio: https://sdido.github.io/Portfolio 
 
