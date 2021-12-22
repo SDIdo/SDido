@@ -1,6 +1,6 @@
 ### Hello 👋
 My name is Ido.
-I really love coding and currently working on some cool projects. 
+Welcome to my little laboratory please have a look around.
 
 Portfolio: https://sdido.github.io/Portfolio 
 
