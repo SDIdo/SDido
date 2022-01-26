@@ -14,4 +14,6 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
 <a href="https://developer.nvidia.com/embedded/jetson-tx2" target="_blank"> <img src="https://2iexix426zex1jl94h409m26-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/nvidia-jetson-tx2-transparent.png" alt="Jetson TX2" width="55" height="40"/>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="PyTorch" width="60" height="40"/>
+
 
