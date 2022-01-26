@@ -1,4 +1,4 @@
-### Hello [](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif) My name is Ido.
+### Hello <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> my name is Ido.
 Welcome to my little laboratory! How can I help you today?
 
 Portfolio: https://sdido.github.io/SDido-Portfolio/
