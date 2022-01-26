@@ -1,5 +1,5 @@
 ### Hello <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> my name is Ido.
-#### I am a software developer focusing on Backend and Device oriented software production.  
+#### I am a Backend and Device oriented software developer.  
 
 #### Portfolio: https://sdido.github.io/SDido-Portfolio/
 
