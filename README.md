@@ -1,5 +1,6 @@
 ### Hello <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> my name is Ido.
 I am a software developer focusing on IOT and it's subdomains. 
+
 Implementing Backend for webapps and Device software development.  
 
 Portfolio: https://sdido.github.io/SDido-Portfolio/
