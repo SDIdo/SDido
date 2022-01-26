@@ -1,5 +1,5 @@
 ### Hello <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> my name is Ido.
-Welcome to my little laboratory! How can I help you today?
+I am a software developer focusing IOT and it's subdomains, mostly backend and device software development.  
 
 Portfolio: https://sdido.github.io/SDido-Portfolio/
 
