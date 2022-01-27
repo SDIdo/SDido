@@ -1,5 +1,6 @@
 ### Hi <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> my name is Ido.
-#### I am a Python and C++ Developer Focusing on Data Science, DSP and Backend. 
+#### I am a Python and C++ Developer.
+#### Currently building exciting Data Science, DSP and Backend projects. 
 
 #### Portfolio: https://sdido.github.io/SDido-Portfolio/
 
