@@ -1,5 +1,5 @@
 ### Hi <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> my name is Ido.
-#### I am a Backend oriented Full Stack and Device Software Developer.  
+#### I am a Backend oriented Full Stack Developer.  
 
 #### Portfolio: https://sdido.github.io/SDido-Portfolio/
 
