@@ -1,5 +1,5 @@
 ### Hi <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> my name is Ido.
-### I Develop Data Platforms with Python and friends.
+### I Develop Data Platforms with Python and Friends.
 
 #### Portfolio: https://sdido.github.io/SDido-Portfolio/
 
