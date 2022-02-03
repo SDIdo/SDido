@@ -1,7 +1,7 @@
 ### Hi <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> my name is Ido.
 ### People's Person, Problem Solver, Flute Player, Meditation Practitioner.
 ### Python and C++ Developer with backgound in Electronics Engineering.
-### Focusing on IOT: Data, Devices, AI and Web. 
+### Focusing on native applications, AI, Web and devices. 
 
 #### Portfolio: https://sdido.github.io/SDido-Portfolio/
 
