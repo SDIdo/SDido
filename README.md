@@ -1,5 +1,5 @@
 ### Hi <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> my name is Ido.
-### People's Person, Problem Solver, Python and C++ developer.
+### People's Person, Problem Solver, Python and C++ developer with backgound in Electronics Engineering.
 ### Focusing on IOT: Data, Devices, AI and Web. 
 
 #### Portfolio: https://sdido.github.io/SDido-Portfolio/
