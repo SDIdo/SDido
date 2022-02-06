@@ -14,6 +14,6 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" width="40" height="40"/>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://dytvr9ot2sszz.cloudfront.net/wp-content/uploads/2021/07/AWS.png" alt="AWS" width="80" height="40"/>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://dytvr9ot2sszz.cloudfront.net/wp-content/uploads/2021/07/AWS.png" alt="AWS"/>
 
 
