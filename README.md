@@ -1,5 +1,5 @@
 ### Hi <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> my name is Ido.
-### People's Person, Problem Solver, Flute Player, Meditation Practitioner.
+### I make food, music and software!
 
 #### Portfolio: https://sdido.github.io/SDido-Portfolio/
 
