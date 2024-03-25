@@ -1,5 +1,6 @@
 ### Hi <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> my name is Ido.
-### I make food, music, social platforms and software!
+### Bsc CS Backend Oriented Fullstack Developer
+
 
 #### Portfolio: https://sdido.github.io/SDido-Portfolio/
 
