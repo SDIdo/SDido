@@ -1,7 +1,5 @@
 ### Hi <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> my name is Ido.
 ### Backend Developer | Computer Vision M.Sc. Student
-#### Thesis: VLM's
-
 
 #### Portfolio: https://sdido.github.io/SDido-Portfolio/
 
